@@ -23,6 +23,5 @@
 * Practical Exercise 
   * Forking
   * Cloning
-  * Making Changes
+  * Makint Changes
   * Committing Changes
-Test Edit GSELCKE
